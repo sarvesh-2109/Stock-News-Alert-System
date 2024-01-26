@@ -4,6 +4,11 @@
 
 The Stock News Alert System is a Python application designed to monitor stock price changes and provide relevant news updates for specific companies. This application is particularly useful for traders and investors interested in staying updated with the latest market movements and news impacting their stock holdings.
 
+## Output
+![WhatsApp Image 2024-01-26 at 15 45 46_f381594b](https://github.com/sarvesh-2109/Stock-News-Alert-System/assets/113255836/073d48c9-2451-44c1-aacb-426f1a2c293d)
+
+
+
 ## Features
 
 - Monitors stock prices using the Alpha Vantage API.
